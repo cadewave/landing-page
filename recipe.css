@@ -1,0 +1,17 @@
+#{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.container{
+ padding: 20px;
+ background-color: aliceblue;
+
+}
+.container img{
+    height: 300px;
+    border-radius: 25px;
+    width: 100%;
+    opacity: #000;
+
+}
